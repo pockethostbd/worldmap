@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Meridian",
+      "hasCanvas": false,
+      "bodyTextLen": 556,
+      "bodyTextHash": "4ba30aed8a88891dbc312a9e36df3f5980b7b51a1dc93786fd8ad3243815e164",
+      "bodyTextPrefix": "Meridian Country metrics, mapped GDP / capita Life exp. HDI CO₂ ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Meridian",
+      "hasCanvas": false,
+      "bodyTextLen": 124,
+      "bodyTextHash": "0a9f26f94ecd18e6e9a7a078933946dfcf710e8ed314652530bf295d9b7549e1",
+      "bodyTextPrefix": "Meridian Country metrics, mapped GDP / capita Life exp. HDI CO₂ ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
